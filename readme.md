@@ -1,6 +1,6 @@
 # 🛰️ ISS Visualizer
 
-<div style="alignItems: center">
+<div style="margin: auto;">
 <img src="https://github.com/asharahmed/iss/blob/main/ss.gif?raw=true" width="75%"/>
 </div>
 
