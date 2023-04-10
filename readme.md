@@ -1,5 +1,7 @@
 # ISS Visualizer
 
+![alttext](https://github.com/asharahmed/iss/blob/main/ss.png?raw=true)
+
 ISS Visualizer is a simple web application that shows the current location of the International Space Station (ISS) on a map. 
 
 ## Installation

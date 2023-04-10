@@ -1,14 +1,31 @@
+#!/usr/bin/python3
 import requests
 import json
 import folium
 import time
 import os
 from folium.plugins import AntPath
-
+import sys
 
 # Create a folium map centered on the initial ISS location
 
+# Load music argument from command line
+MUSIC = False
+if len(sys.argv) > 1:
+    MUSIC = True
+
+
 OVERRIDE = False # Set to True to override the iss_data.json file
+
+if MUSIC:
+    # Play music while script is running
+    music_path = os.path.join(os.path.expanduser('.'), 'audio.mp3')
+
+    # Play music in background silently 
+    os.system("afplay " + music_path + " &")
+    os.system("osascript -e 'set volume output volume 100'")
+
+
 
 
 m = folium.Map(location=[0, 0], zoom_start=3, tiles='CartoDB positron')
@@ -20,7 +37,7 @@ marker = folium.Marker(
 
 # Save the map as an HTML file and open it in the web browser
 filename = 'iss_map.html'
-filepath = os.path.join(os.path.expanduser('~'), filename)
+filepath = os.path.join(os.path.expanduser('.'), filename)
 m.save(filepath)
 os.system("osascript -e 'tell application \"Safari\" to set the URL of the front document to \"" + filepath + "\"'")
 

@@ -1,0 +1,947 @@
+nohup: iss.py: No such file or directory
+Traceback (most recent call last):
+  File "/Users/ashar/Documents/iss/./iss.py", line 4, in <module>
+    import folium
+ModuleNotFoundError: No module named 'folium'
+[{'latitude': -51.596, 'longitude': 158.818}, {'latitude': -51.5928, 'longitude': 158.9675}, {'latitude': -51.5905, 'longitude': 159.0672}, {'latitude': -51.587, 'longitude': 159.2167}, {'latitude': -51.5832, 'longitude': 159.3661}, {'latitude': -51.5793, 'longitude': 159.5154}, {'latitude': -51.5751, 'longitude': 159.6648}, {'latitude': -51.5708, 'longitude': 159.8141}, {'latitude': -51.5662, 'longitude': 159.9634}, {'latitude': -51.5614, 'longitude': 160.1127}, {'latitude': -51.5581, 'longitude': 160.2122}, {'latitude': -51.5158, 'longitude': 161.3056}, {'latitude': -51.5091, 'longitude': 161.4545}, {'latitude': -51.5023, 'longitude': 161.6034}, {'latitude': -51.4953, 'longitude': 161.7522}, {'latitude': -51.488, 'longitude': 161.901}, {'latitude': -51.4806, 'longitude': 162.0497}, {'latitude': -51.4729, 'longitude': 162.1985}, {'latitude': -51.4677, 'longitude': 162.2975}, {'latitude': -51.4597, 'longitude': 162.4462}, {'latitude': -51.4515, 'longitude': 162.5947}, {'latitude': -51.4403, 'longitude': 162.7926}, {'latitude': -51.4345, 'longitude': 162.8916}, {'latitude': -51.4257, 'longitude': 163.0399}, {'latitude': -51.4167, 'longitude': 163.1882}, {'latitude': -51.4075, 'longitude': 163.3364}, {'latitude': -51.3981, 'longitude': 163.4846}, {'latitude': -51.3885, 'longitude': 163.6327}, {'latitude': -51.3786, 'longitude': 163.7808}, {'latitude': -51.3686, 'longitude': 163.9287}, {'latitude': -51.3584, 'longitude': 164.0767}, {'latitude': -51.3479, 'longitude': 164.2246}, {'latitude': -51.3373, 'longitude': 164.3724}, {'latitude': -51.3265, 'longitude': 164.5201}, {'latitude': -51.3154, 'longitude': 164.6677}, {'latitude': -51.3042, 'longitude': 164.8153}, {'latitude': -51.2927, 'longitude': 164.9627}, {'latitude': -51.2811, 'longitude': 165.1101}, {'latitude': -51.2692, 'longitude': 165.2575}, {'latitude': -51.2572, 'longitude': 165.4047}, {'latitude': -51.2449, 'longitude': 165.5519}, {'latitude': -51.2283, 'longitude': 165.748}, {'latitude': -51.2156, 'longitude': 165.8949}, {'latitude': -51.2027, 'longitude': 166.0418}, {'latitude': -51.1896, 'longitude': 166.1886}, {'latitude': -51.1627, 'longitude': 166.4818}, {'latitude': -51.149, 'longitude': 166.6284}, {'latitude': -51.1398, 'longitude': 166.726}, {'latitude': -51.1257, 'longitude': 166.8724}, {'latitude': -51.1115, 'longitude': 167.0186}, {'latitude': -51.097, 'longitude': 167.1648}, {'latitude': -51.0824, 'longitude': 167.3109}, {'latitude': -51.0676, 'longitude': 167.4569}, {'latitude': -51.0525, 'longitude': 167.6028}, {'latitude': -51.0373, 'longitude': 167.7486}, {'latitude': -51.0218, 'longitude': 167.8943}, {'latitude': -51.001, 'longitude': 168.0884}, {'latitude': -50.9851, 'longitude': 168.2338}, {'latitude': -50.969, 'longitude': 168.3791}, {'latitude': -50.9527, 'longitude': 168.5243}, {'latitude': -50.9362, 'longitude': 168.6694}, {'latitude': -50.9196, 'longitude': 168.8144}, {'latitude': -50.9027, 'longitude': 168.9594}, {'latitude': -50.8856, 'longitude': 169.1042}, {'latitude': -50.8626, 'longitude': 169.297}, {'latitude': -50.845, 'longitude': 169.4416}, {'latitude': -50.8214, 'longitude': 169.6341}, {'latitude': -50.8034, 'longitude': 169.7784}, {'latitude': -50.7852, 'longitude': 169.9225}, {'latitude': -50.7607, 'longitude': 170.1145}, {'latitude': -50.7421, 'longitude': 170.2584}, {'latitude': -50.7233, 'longitude': 170.4022}, {'latitude': -50.6979, 'longitude': 170.5937}, {'latitude': -50.6786, 'longitude': 170.7372}, {'latitude': -50.6526, 'longitude': 170.9283}, {'latitude': -50.6329, 'longitude': 171.0715}, {'latitude': -50.6063, 'longitude': 171.2622}, {'latitude': -50.4181, 'longitude': 172.5432}, {'latitude': -50.3963, 'longitude': 172.6849}, {'latitude': -50.3742, 'longitude': 172.8265}, {'latitude': -50.352, 'longitude': 172.9679}, {'latitude': -50.3296, 'longitude': 173.1092}, {'latitude': -50.307, 'longitude': 173.2503}, {'latitude': -50.2842, 'longitude': 173.3913}, {'latitude': -50.2612, 'longitude': 173.5321}, {'latitude': -50.238, 'longitude': 173.6728}, {'latitude': -23.1114, 'longitude': -137.1177}, {'latitude': -23.0638, 'longitude': -137.0745}, {'latitude': -22.9923, 'longitude': -137.0099}, {'latitude': -22.9207, 'longitude': -136.9453}, {'latitude': -20.9535, 'longitude': -135.208}, {'latitude': -20.8811, 'longitude': -135.1454}, {'latitude': -20.8087, 'longitude': -135.0829}, {'latitude': -20.7362, 'longitude': -135.0205}, {'latitude': -20.6638, 'longitude': -134.9581}, {'latitude': -20.5913, 'longitude': -134.8958}, {'latitude': -20.5188, 'longitude': -134.8335}, {'latitude': -20.4462, 'longitude': -134.7713}, {'latitude': -20.3495, 'longitude': -134.6885}, {'latitude': -20.2769, 'longitude': -134.6265}, {'latitude': -20.2042, 'longitude': -134.5646}, {'latitude': -20.1316, 'longitude': -134.5027}, {'latitude': -20.0589, 'longitude': -134.4408}, {'latitude': -19.9619, 'longitude': -134.3584}, {'latitude': -19.8892, 'longitude': -134.2968}, {'latitude': -19.8164, 'longitude': -134.2351}, {'latitude': -19.7193, 'longitude': -134.153}, {'latitude': -19.6465, 'longitude': -134.0915}]
+-19.6222 -134.0711
+Saved iss_data to iss_data.json
+-19.5493 -134.0097
+Saved iss_data to iss_data.json
+-19.4764 -133.9483
+Saved iss_data to iss_data.json
+-19.4035 -133.887
+Saved iss_data to iss_data.json
+-19.3306 -133.8258
+Saved iss_data to iss_data.json
+-19.2576 -133.7646
+Saved iss_data to iss_data.json
+-19.1846 -133.7035
+Saved iss_data to iss_data.json
+-19.1116 -133.6425
+Saved iss_data to iss_data.json
+-19.0385 -133.5815
+Saved iss_data to iss_data.json
+-18.9654 -133.5205
+Saved iss_data to iss_data.json
+-18.8923 -133.4597
+Saved iss_data to iss_data.json
+-18.8192 -133.3988
+Saved iss_data to iss_data.json
+-18.7216 -133.3178
+Saved iss_data to iss_data.json
+-18.6485 -133.2572
+Saved iss_data to iss_data.json
+-18.5509 -133.1764
+Saved iss_data to iss_data.json
+-18.4777 -133.1158
+Saved iss_data to iss_data.json
+-18.4044 -133.0553
+Saved iss_data to iss_data.json
+-18.3311 -132.9949
+Saved iss_data to iss_data.json
+-18.2334 -132.9145
+Saved iss_data to iss_data.json
+-18.1356 -132.8341
+Saved iss_data to iss_data.json
+-18.0623 -132.7739
+Saved iss_data to iss_data.json
+-17.9644 -132.6936
+Saved iss_data to iss_data.json
+-17.8665 -132.6135
+Saved iss_data to iss_data.json
+-17.7686 -132.5335
+Saved iss_data to iss_data.json
+-17.6706 -132.4536
+Saved iss_data to iss_data.json
+-17.5726 -132.3738
+Saved iss_data to iss_data.json
+-17.4991 -132.314
+Saved iss_data to iss_data.json
+-17.401 -132.2344
+Saved iss_data to iss_data.json
+-17.3029 -132.1548
+Saved iss_data to iss_data.json
+-17.2047 -132.0753
+Saved iss_data to iss_data.json
+-17.1065 -131.996
+Saved iss_data to iss_data.json
+-17.0083 -131.9167
+Saved iss_data to iss_data.json
+-16.91 -131.8375
+Saved iss_data to iss_data.json
+-16.8117 -131.7584
+Saved iss_data to iss_data.json
+-16.7134 -131.6794
+Saved iss_data to iss_data.json
+-16.615 -131.6005
+Saved iss_data to iss_data.json
+-16.5166 -131.5217
+Saved iss_data to iss_data.json
+-16.3935 -131.4232
+Saved iss_data to iss_data.json
+-16.295 -131.3446
+Saved iss_data to iss_data.json
+-16.1964 -131.2661
+Saved iss_data to iss_data.json
+-16.0732 -131.168
+Saved iss_data to iss_data.json
+-15.9746 -131.0897
+Saved iss_data to iss_data.json
+-15.8759 -131.0114
+Saved iss_data to iss_data.json
+-15.7526 -130.9137
+Saved iss_data to iss_data.json
+-15.6539 -130.8357
+Saved iss_data to iss_data.json
+-15.5304 -130.7382
+Saved iss_data to iss_data.json
+-15.4068 -130.6407
+Saved iss_data to iss_data.json
+-15.3079 -130.563
+Saved iss_data to iss_data.json
+-15.1843 -130.4659
+Saved iss_data to iss_data.json
+-15.0606 -130.3689
+Saved iss_data to iss_data.json
+-14.9369 -130.272
+Saved iss_data to iss_data.json
+-14.8132 -130.1753
+Saved iss_data to iss_data.json
+-14.6893 -130.0786
+Saved iss_data to iss_data.json
+-14.5655 -129.9821
+Saved iss_data to iss_data.json
+-14.4416 -129.8857
+Saved iss_data to iss_data.json
+-14.3176 -129.7895
+Saved iss_data to iss_data.json
+-14.1936 -129.6933
+Saved iss_data to iss_data.json
+-14.0695 -129.5973
+Saved iss_data to iss_data.json
+-13.9454 -129.5014
+Saved iss_data to iss_data.json
+-13.7964 -129.3864
+Saved iss_data to iss_data.json
+-13.6722 -129.2908
+Saved iss_data to iss_data.json
+-13.5231 [{'latitude': -51.596, 'longitude': 158.818}, {'latitude': -51.5928, 'longitude': 158.9675}, {'latitude': -51.5905, 'longitude': 159.0672}, {'latitude': -51.587, 'longitude': 159.2167}, {'latitude': -51.5832, 'longitude': 159.3661}, {'latitude': -51.5793, 'longitude': 159.5154}, {'latitude': -51.5751, 'longitude': 159.6648}, {'latitude': -51.5708, 'longitude': 159.8141}, {'latitude': -51.5662, 'longitude': 159.9634}, {'latitude': -51.5614, 'longitude': 160.1127}, {'latitude': -51.5581, 'longitude': 160.2122}, {'latitude': -51.5158, 'longitude': 161.3056}, {'latitude': -51.5091, 'longitude': 161.4545}, {'latitude': -51.5023, 'longitude': 161.6034}, {'latitude': -51.4953, 'longitude': 161.7522}, {'latitude': -51.488, 'longitude': 161.901}, {'latitude': -51.4806, 'longitude': 162.0497}, {'latitude': -51.4729, 'longitude': 162.1985}, {'latitude': -51.4677, 'longitude': 162.2975}, {'latitude': -51.4597, 'longitude': 162.4462}, {'latitude': -51.4515, 'longitude': 162.5947}, {'latitude': -51.4403, 'longitude': 162.7926}, {'latitude': -51.4345, 'longitude': 162.8916}, {'latitude': -51.4257, 'longitude': 163.0399}, {'latitude': -51.4167, 'longitude': 163.1882}, {'latitude': -51.4075, 'longitude': 163.3364}, {'latitude': -51.3981, 'longitude': 163.4846}, {'latitude': -51.3885, 'longitude': 163.6327}, {'latitude': -51.3786, 'longitude': 163.7808}, {'latitude': -51.3686, 'longitude': 163.9287}, {'latitude': -51.3584, 'longitude': 164.0767}, {'latitude': -51.3479, 'longitude': 164.2246}, {'latitude': -51.3373, 'longitude': 164.3724}, {'latitude': -51.3265, 'longitude': 164.5201}, {'latitude': -51.3154, 'longitude': 164.6677}, {'latitude': -51.3042, 'longitude': 164.8153}, {'latitude': -51.2927, 'longitude': 164.9627}, {'latitude': -51.2811, 'longitude': 165.1101}, {'latitude': -51.2692, 'longitude': 165.2575}, {'latitude': -51.2572, 'longitude': 165.4047}, {'latitude': -51.2449, 'longitude': 165.5519}, {'latitude': -51.2283, 'longitude': 165.748}, {'latitude': -51.2156, 'longitude': 165.8949}, {'latitude': -51.2027, 'longitude': 166.0418}, {'latitude': -51.1896, 'longitude': 166.1886}, {'latitude': -51.1627, 'longitude': 166.4818}, {'latitude': -51.149, 'longitude': 166.6284}, {'latitude': -51.1398, 'longitude': 166.726}, {'latitude': -51.1257, 'longitude': 166.8724}, {'latitude': -51.1115, 'longitude': 167.0186}, {'latitude': -51.097, 'longitude': 167.1648}, {'latitude': -51.0824, 'longitude': 167.3109}, {'latitude': -51.0676, 'longitude': 167.4569}, {'latitude': -51.0525, 'longitude': 167.6028}, {'latitude': -51.0373, 'longitude': 167.7486}, {'latitude': -51.0218, 'longitude': 167.8943}, {'latitude': -51.001, 'longitude': 168.0884}, {'latitude': -50.9851, 'longitude': 168.2338}, {'latitude': -50.969, 'longitude': 168.3791}, {'latitude': -50.9527, 'longitude': 168.5243}, {'latitude': -50.9362, 'longitude': 168.6694}, {'latitude': -50.9196, 'longitude': 168.8144}, {'latitude': -50.9027, 'longitude': 168.9594}, {'latitude': -50.8856, 'longitude': 169.1042}, {'latitude': -50.8626, 'longitude': 169.297}, {'latitude': -50.845, 'longitude': 169.4416}, {'latitude': -50.8214, 'longitude': 169.6341}, {'latitude': -50.8034, 'longitude': 169.7784}, {'latitude': -50.7852, 'longitude': 169.9225}, {'latitude': -50.7607, 'longitude': 170.1145}, {'latitude': -50.7421, 'longitude': 170.2584}, {'latitude': -50.7233, 'longitude': 170.4022}, {'latitude': -50.6979, 'longitude': 170.5937}, {'latitude': -50.6786, 'longitude': 170.7372}, {'latitude': -50.6526, 'longitude': 170.9283}, {'latitude': -50.6329, 'longitude': 171.0715}, {'latitude': -50.6063, 'longitude': 171.2622}, {'latitude': -50.4181, 'longitude': 172.5432}, {'latitude': -50.3963, 'longitude': 172.6849}, {'latitude': -50.3742, 'longitude': 172.8265}, {'latitude': -50.352, 'longitude': 172.9679}, {'latitude': -50.3296, 'longitude': 173.1092}, {'latitude': -50.307, 'longitude': 173.2503}, {'latitude': -50.2842, 'longitude': 173.3913}, {'latitude': -50.2612, 'longitude': 173.5321}, {'latitude': -50.238, 'longitude': 173.6728}, {'latitude': -23.1114, 'longitude': -137.1177}, {'latitude': -23.0638, 'longitude': -137.0745}, {'latitude': -22.9923, 'longitude': -137.0099}, {'latitude': -22.9207, 'longitude': -136.9453}]
+-20.9535 -135.208
+Saved iss_data to iss_data.json
+-20.8811 -135.1454
+Saved iss_data to iss_data.json
+-20.8087 -135.0829
+Saved iss_data to iss_data.json
+-20.7362 -135.0205
+Saved iss_data to iss_data.json
+-20.6638 -134.9581
+Saved iss_data to iss_data.json
+-20.5913 -134.8958
+Saved iss_data to iss_data.json
+-20.5188 -134.8335
+Saved iss_data to iss_data.json
+-20.4462 -134.7713
+Saved iss_data to iss_data.json
+-20.3495 -134.6885
+Saved iss_data to iss_data.json
+-20.2769 -134.6265
+Saved iss_data to iss_data.json
+-20.2042 -134.5646
+Saved iss_data to iss_data.json
+-20.1316 -134.5027
+Saved iss_data to iss_data.json
+-20.0589 -134.4408
+Saved iss_data to iss_data.json
+-19.9619 -134.3584
+Saved iss_data to iss_data.json
+-19.8892 -134.2968
+Saved iss_data to iss_data.json
+-19.8164 -134.2351
+Saved iss_data to iss_data.json
+-19.7193 -134.153
+Saved iss_data to iss_data.json
+-19.6465 -134.0915
+Saved iss_data to iss_data.json
+-19.5736 -134.0301
+Saved iss_data to iss_data.json
+-19.4764 -133.9483
+Saved iss_data to iss_data.json
+-19.4035 -133.887
+Saved iss_data to iss_data.json
+-19.3062 -133.8054
+Saved iss_data to iss_data.json
+-19.2333 -133.7443
+Saved iss_data to iss_data.json
+-19.1359 -133.6628
+Saved iss_data to iss_data.json
+-19.0629 -133.6018
+Saved iss_data to iss_data.json
+-18.9654 -133.5205
+Saved iss_data to iss_data.json
+-18.868 -133.4394
+Saved iss_data to iss_data.json
+-18.7948 -133.3786
+Saved iss_data to iss_data.json
+-18.6973 -133.2976
+Saved iss_data to iss_data.json
+-18.5997 -133.2168
+Saved iss_data to iss_data.json
+-18.5021 -133.136
+Saved iss_data to iss_data.json
+-18.4288 -133.0755
+Saved iss_data to iss_data.json
+-18.3311 -132.9949
+Saved iss_data to iss_data.json
+-18.2334 -132.9145
+Saved iss_data to iss_data.json
+-18.1356 -132.8341
+Saved iss_data to iss_data.json
+-18.0378 -132.7538
+Saved iss_data to iss_data.json
+-17.9399 -132.6736
+Saved iss_data to iss_data.json
+-17.842 -132.5935
+Saved iss_data to iss_data.json
+-17.7441 -132.5135
+Saved iss_data to iss_data.json
+-17.6461 -132.4337
+Saved iss_data to iss_data.json
+-17.5481 -132.3539
+Saved iss_data to iss_data.json
+-17.4255 -132.2543
+Saved iss_data to iss_data.json
+-17.3274 -132.1747
+Saved iss_data to iss_data.json
+-17.2293 -132.0952
+Saved iss_data to iss_data.json
+-17.1065 -131.996
+Saved iss_data to iss_data.json
+-17.0083 -131.9167
+Saved iss_data to iss_data.json
+-16.91 -131.8375
+Saved iss_data to iss_data.json
+-16.7872 -131.7387
+Saved iss_data to iss_data.json
+-16.6888 -131.6597
+Saved iss_data to iss_data.json
+-16.5658 -131.5611
+Saved iss_data to iss_data.json
+-16.4673 -131.4823
+Saved iss_data to iss_data.json
+-16.3442 -131.3839
+Saved iss_data to iss_data.json
+-16.2211 -131.2857
+Saved iss_data to iss_data.json
+-16.1225 -131.2072
+Saved iss_data to iss_data.json
+-15.9993 -131.1093
+Saved iss_data to iss_data.json
+-15.8759 -131.0114
+Saved iss_data to iss_data.json
+-15.7526 -130.9137
+Saved iss_data to iss_data.json
+-15.6292 -130.8161
+Saved iss_data to iss_data.json
+-15.5057 -130.7187
+Saved iss_data to iss_data.json
+-15.3821 -130.6213
+Saved iss_data to iss_data.json
+-15.2585 -130.5241
+Saved iss_data to iss_data.json
+-15.1596 -130.4464
+Saved iss_data to iss_data.json
+-15.0111 -130.3301
+Saved iss_data to iss_data.json
+-14.8874 -130.2333
+Saved iss_data to iss_data.json
+-14.7636 -130.1366
+Saved iss_data to iss_data.json
+-14.6398 -130.04
+Saved iss_data to iss_data.json
+-14.5159 -129.9435
+Saved iss_data to iss_data.json
+-14.3672 -129.828
+Saved iss_data to iss_data.json
+-14.2432 -129.7318
+Saved iss_data to iss_data.json
+-14.0943 -129.6165
+Saved iss_data to iss_data.json
+-13.9454 -129.5014
+Saved iss_data to iss_data.json
+-13.8212 -129.4056
+Saved iss_data to iss_data.json
+-13.6722 -129.2908
+Saved iss_data to iss_data.json
+-13.5231 -129.1761
+Saved iss_data to iss_data.json
+-13.3739 -129.0616
+Saved iss_data to iss_data.json
+-13.2246 -128.9473
+Saved iss_data to iss_data.json
+-13.1002 -128.8521
+Saved iss_data to iss_data.json
+-12.9509 -128.7381
+Saved iss_data to iss_data.json
+-129.1761
+Saved iss_data to iss_data.json
+-13.3987 -129.0807
+Saved iss_data to iss_data.json
+-13.2495 -128.9663
+Saved iss_data to iss_data.json
+-13.1251 -128.8712
+Saved iss_data to iss_data.json
+-12.9758 -128.7571
+Saved iss_data to iss_data.json
+-12.8264 -128.6432
+Saved iss_data to iss_data.json
+-12.6769 -128.5294
+Saved iss_data to iss_data.json
+-12.5274 -128.4158
+Saved iss_data to iss_data.json
+-12.3778 -128.3023
+Saved iss_data to iss_data.json
+-12.2281 -128.189
+Saved iss_data to iss_data.json
+-12.0785 -128.0758
+Saved iss_data to iss_data.json
+-11.9287 -127.9628
+Saved iss_data to iss_data.json
+-11.7539 -127.831
+Saved iss_data to iss_data.json
+-11.604 -127.7183
+Saved iss_data to iss_data.json
+-11.454 -127.6056
+Saved iss_data to iss_data.json
+-11.304 -127.4931
+Saved iss_data to iss_data.json
+-11.129 -127.3621
+Saved iss_data to iss_data.json
+-10.9789 -127.2498
+Saved iss_data to iss_data.json
+-10.8287 -127.1378
+Saved iss_data to iss_data.json
+-10.6535 -127.0072
+Saved iss_data to iss_data.json
+-10.4782 -126.8767
+Saved iss_data to iss_data.json
+-10.3278 -126.7651
+Saved iss_data to iss_data.json
+-10.1524 -126.6349
+Saved iss_data to iss_data.json
+-9.9769 -126.5049
+Saved iss_data to iss_data.json
+-9.8013 -126.3751
+Saved iss_data to iss_data.json
+-9.6257 -126.2454
+Saved iss_data to iss_data.json
+-9.45 -126.1159
+Saved iss_data to iss_data.json
+-9.2742 -125.9865
+Saved iss_data to iss_data.json
+-9.0984 -125.8573
+Saved iss_data to iss_data.json
+-8.9225 -125.7282
+Saved iss_data to iss_data.json
+-8.7215 -125.5808
+Saved iss_data to iss_data.json
+-8.5455 -125.452
+Saved iss_data to iss_data.json
+-8.3443 -125.305
+Saved iss_data to iss_data.json
+-8.1682 -125.1765
+Saved iss_data to iss_data.json
+-7.9669 -125.0297
+Saved iss_data to iss_data.json
+-7.7655 -124.8832
+Saved iss_data to iss_data.json
+-7.564 -124.7367
+Saved iss_data to iss_data.json
+-7.3625 -124.5905
+Saved iss_data to iss_data.json
+-7.1609 -124.4444
+Saved iss_data to iss_data.json
+-6.9593 -124.2984
+Saved iss_data to iss_data.json
+-6.7324 -124.1343
+Saved iss_data to iss_data.json
+-6.5306 -123.9886
+Saved iss_data to iss_data.json
+-6.3288 -123.8431
+Saved iss_data to iss_data.json
+-6.1017 -123.6795
+Saved iss_data to iss_data.json
+-5.8998 -123.5342
+Saved iss_data to iss_data.json
+-5.6725 -123.3708
+Saved iss_data to iss_data.json
+-5.4452 -123.2077
+Saved iss_data to iss_data.json
+-5.2431 -123.0627
+Saved iss_data to iss_data.json
+-5.0158 -122.8998
+Saved iss_data to iss_data.json
+-4.7883 -122.737
+Saved iss_data to iss_data.json
+-4.5861 -122.5924
+Saved iss_data to iss_data.json
+-4.3586 -122.4298
+Saved iss_data to iss_data.json
+-4.131 -122.2674
+Saved iss_data to iss_data.json
+-3.9034 -122.105
+Saved iss_data to iss_data.json
+-3.6757 -121.9427
+Saved iss_data to iss_data.json
+-3.448 -121.7805
+Saved iss_data to iss_data.json
+-3.195 -121.6005
+Saved iss_data to iss_data.json
+-2.9672 -121.4384
+Saved iss_data to iss_data.json
+-2.714 -121.2584
+Saved iss_data to iss_data.json
+-2.4861 -121.0966
+Saved iss_data to iss_data.json
+-2.233 -120.9168
+Saved iss_data to iss_data.json
+-1.9798 -120.7371
+Saved iss_data to iss_data.json
+-1.7265 -120.5575
+Saved iss_data to iss_data.json
+-1.4733 -120.3779
+Saved iss_data to iss_data.json
+-1.22 -120.1983
+Saved iss_data to iss_data.json
+-0.9413 -120.0008
+Saved iss_data to iss_data.json
+-0.688 -119.8214
+Saved iss_data to iss_data.json
+-0.4347 -119.6419
+Saved iss_data to iss_data.json
+-0.156 -119.4445
+Saved iss_data to iss_data.json
+0.1226 -119.2471
+Saved iss_data to iss_data.json
+0.4014 -119.0497
+Saved iss_data to iss_data.json
+0.6801 -118.8523
+Saved iss_data to iss_data.json
+0.9587 -118.6548
+Saved iss_data to iss_data.json
+1.2373 -118.4574
+Saved iss_data to iss_data.json
+1.516 -118.2598
+Saved iss_data to iss_data.json
+1.7946 -118.0622
+Saved iss_data to iss_data.json
+2.0732 -117.8646
+Saved iss_data to iss_data.json
+2.3518 -117.6668
+Saved iss_data to iss_data.json
+2.6303 -117.469
+Saved iss_data to iss_data.json
+2.9088 -117.2711
+Saved iss_data to iss_data.json
+3.1873 -117.073
+Saved iss_data to iss_data.json
+3.4657 -116.8748
+Saved iss_data to iss_data.json
+3.7441 -116.6765
+Saved iss_data to iss_data.json
+4.0477 -116.46
+Saved iss_data to iss_data.json
+4.326 -116.2614
+Saved iss_data to iss_data.json
+4.6294 -116.0446
+Saved iss_data to iss_data.json
+4.9075 -115.8456
+Saved iss_data to iss_data.json
+5.2108 -115.6284
+Saved iss_data to iss_data.json
+5.514 -115.4109
+Saved iss_data to iss_data.json
+5.8424 -115.175
+Saved iss_data to iss_data.json
+6.1706 -114.9387
+Saved iss_data to iss_data.json
+6.4988 -114.7022
+Saved iss_data to iss_data.json
+6.8015 -114.4835
+Saved iss_data to iss_data.json
+7.1294 -114.2463
+Saved iss_data to iss_data.json
+7.4571 -114.0087
+Saved iss_data to iss_data.json
+7.7594 -113.789
+Saved iss_data to iss_data.json
+8.0868 -113.5506
+Saved iss_data to iss_data.json
+8.389 -113.3301
+Saved iss_data to iss_data.json
+8.7161 -113.0909
+Saved iss_data to iss_data.json
+9.043 -112.8511
+Saved iss_data to iss_data.json
+9.3948 -112.5924
+Saved iss_data to iss_data.json
+9.7214 -112.3516
+Saved iss_data to iss_data.json
+10.0727 -112.0918
+Saved iss_data to iss_data.json
+10.3988 -111.8498
+Saved iss_data to iss_data.json
+10.7498 -111.5886
+Saved iss_data to iss_data.json
+11.0755 -111.3455
+Saved iss_data to iss_data.json
+11.4009 -111.1018
+Saved iss_data to iss_data.json
+11.7511 -110.8386
+Saved iss_data to iss_data.json
+12.0759 -110.5936
+Saved iss_data to iss_data.json
+12.4254 -110.329
+Saved iss_data to iss_data.json
+12.7747 -110.0636
+Saved iss_data to iss_data.json
+13.1236 -109.7974
+Saved iss_data to iss_data.json
+13.4722 -109.5303
+Saved iss_data to iss_data.json
+13.8453 -109.2432
+Saved iss_data to iss_data.json
+14.1931 -108.9743
+Saved iss_data to iss_data.json
+14.5406 -108.7045
+Saved iss_data to iss_data.json
+14.8878 -108.4337
+Saved iss_data to iss_data.json
+15.2593 -108.1425
+Saved iss_data to iss_data.json
+15.6056 -107.8696
+Saved iss_data to iss_data.json
+15.9761 -107.5762
+Saved iss_data to iss_data.json
+16.3462 -107.2816
+Saved iss_data to iss_data.json
+16.6912 -107.0054
+Saved iss_data to iss_data.json
+17.0604 -106.7083
+Saved iss_data to iss_data.json
+17.429 -106.4099
+Saved iss_data to iss_data.json
+17.797 -106.1102
+Saved iss_data to iss_data.json
+18.2135 -105.7688
+Saved iss_data to iss_data.json
+18.6048 -105.4459
+Saved iss_data to iss_data.json
+18.9954 -105.1213
+Saved iss_data to iss_data.json
+19.361 -104.8154
+Saved iss_data to iss_data.json
+19.7503 -104.4875
+Saved iss_data to iss_data.json
+20.1146 -104.1785
+Saved iss_data to iss_data.json
+20.5025 -103.847
+Saved iss_data to iss_data.json
+20.8896 -103.5138
+Saved iss_data to iss_data.json
+21.2758 -103.1787
+Saved iss_data to iss_data.json
+21.6855 -102.8204
+Saved iss_data to iss_data.json
+22.0701 -102.4812
+Saved iss_data to iss_data.json
+22.4539 -102.1399
+Saved iss_data to iss_data.json
+22.8369 -101.7965
+Saved iss_data to iss_data.json
+23.2427 -101.4294
+Saved iss_data to iss_data.json
+23.6238 -101.0816
+Saved iss_data to iss_data.json
+24.0039 -100.7316
+Saved iss_data to iss_data.json
+24.4068 -100.3572
+Saved iss_data to iss_data.json
+24.8086 -99.9801
+Saved iss_data to iss_data.json
+25.2327 -99.578
+Saved iss_data to iss_data.json
+25.6087 -99.2179
+Saved iss_data to iss_data.json
+26.0304 -98.8098
+Saved iss_data to iss_data.json
+26.4273 -98.4214
+Saved iss_data to iss_data.json
+26.8463 -98.007
+Saved iss_data to iss_data.json
+27.287 -97.566
+Saved iss_data to iss_data.json
+27.6799 -97.1681
+Saved iss_data to iss_data.json
+28.0944 -96.7434
+Saved iss_data to iss_data.json
+28.5073 -96.3151
+Saved iss_data to iss_data.json
+29.0782 -95.7141
+Saved iss_data to iss_data.json
+29.4646 -95.3014
+Saved iss_data to iss_data.json
+29.9398 -94.7867
+Saved iss_data to iss_data.json
+30.3901 -94.2916
+Saved iss_data to iss_data.json
+30.8383 -93.7914
+Saved iss_data to iss_data.json
+31.2398 -93.3369
+Saved iss_data to iss_data.json
+31.6393 -92.8782
+Saved iss_data to iss_data.json
+32.059 -92.3893
+Saved iss_data to iss_data.json
+32.4545 -91.9217
+Saved iss_data to iss_data.json
+32.848 -91.4497
+Saved iss_data to iss_data.json
+33.261 -90.9465
+Saved iss_data to iss_data.json
+33.6717 -90.4382
+Saved iss_data to iss_data.json
+34.08 -89.9246
+Saved iss_data to iss_data.json
+34.5071 -89.378
+-12.7766 -128.6052
+Saved iss_data to iss_data.json
+-12.6271 -128.4915
+Saved iss_data to iss_data.json
+-12.4775 -128.378
+Saved iss_data to iss_data.json
+-12.3279 -128.2645
+Saved iss_data to iss_data.json
+-12.1783 -128.1512
+Saved iss_data to iss_data.json
+-12.0286 -128.0381
+Saved iss_data to iss_data.json
+-11.8788 -127.9251
+Saved iss_data to iss_data.json
+-11.7039 -127.7934
+Saved iss_data to iss_data.json
+-11.554 -127.6807
+Saved iss_data to iss_data.json
+-11.379 -127.5494
+Saved iss_data to iss_data.json
+-11.229 -127.4369
+Saved iss_data to iss_data.json
+-11.0539 -127.3059
+Saved iss_data to iss_data.json
+-10.9038 -127.1938
+Saved iss_data to iss_data.json
+-10.7286 -127.0631
+Saved iss_data to iss_data.json
+-10.5533 -126.9326
+Saved iss_data to iss_data.json
+-10.3779 -126.8023
+Saved iss_data to iss_data.json
+-10.2025 -126.6721
+Saved iss_data to iss_data.json
+-10.0521 -126.5606
+Saved iss_data to iss_data.json
+-9.8515 -126.4122
+Saved iss_data to iss_data.json
+-9.6759 -126.2825
+Saved iss_data to iss_data.json
+-9.5002 -126.1529
+Saved iss_data to iss_data.json
+-9.3244 -126.0235
+Saved iss_data to iss_data.json
+-9.1486 -125.8942
+Saved iss_data to iss_data.json
+-8.9477 -125.7466
+Saved iss_data to iss_data.json
+-8.7718 -125.6177
+Saved iss_data to iss_data.json
+-8.5455 -125.452
+Saved iss_data to iss_data.json
+-8.3694 -125.3233
+Saved iss_data to iss_data.json
+-8.1682 -125.1765
+Saved iss_data to iss_data.json
+-7.9669 -125.0297
+Saved iss_data to iss_data.json
+-7.7655 -124.8832
+Saved iss_data to iss_data.json
+-7.564 -124.7367
+Saved iss_data to iss_data.json
+-7.3625 -124.5905
+Saved iss_data to iss_data.json
+-7.1609 -124.4444
+Saved iss_data to iss_data.json
+-6.9593 -124.2984
+Saved iss_data to iss_data.json
+-6.7324 -124.1343
+Saved iss_data to iss_data.json
+-6.5306 -123.9886
+Saved iss_data to iss_data.json
+-6.3288 -123.8431
+Saved iss_data to iss_data.json
+-6.1017 -123.6795
+Saved iss_data to iss_data.json
+-5.8998 -123.5342
+Saved iss_data to iss_data.json
+-5.6725 -123.3708
+Saved iss_data to iss_data.json
+-5.4452 -123.2077
+Saved iss_data to iss_data.json
+-5.2179 -123.0446
+Saved iss_data to iss_data.json
+-4.9905 -122.8817
+Saved iss_data to iss_data.json
+-4.7883 -122.737
+Saved iss_data to iss_data.json
+-4.5608 -122.5743
+Saved iss_data to iss_data.json
+-4.3333 -122.4118
+Saved iss_data to iss_data.json
+-4.1057 -122.2493
+Saved iss_data to iss_data.json
+-3.8781 -122.087
+Saved iss_data to iss_data.json
+-3.6504 -121.9247
+Saved iss_data to iss_data.json
+-3.4227 -121.7625
+Saved iss_data to iss_data.json
+-3.195 -121.6005
+Saved iss_data to iss_data.json
+-2.9419 -121.4204
+Saved iss_data to iss_data.json
+-2.6887 -121.2404
+Saved iss_data to iss_data.json
+-2.4608 -121.0786
+Saved iss_data to iss_data.json
+-2.2076 -120.8988
+Saved iss_data to iss_data.json
+-1.9544 -120.7191
+Saved iss_data to iss_data.json
+-1.7012 -120.5395
+Saved iss_data to iss_data.json
+-1.4733 -120.3779
+Saved iss_data to iss_data.json
+-1.1946 -120.1804
+Saved iss_data to iss_data.json
+-0.916 -119.9829
+Saved iss_data to iss_data.json
+-0.6627 -119.8034
+Saved iss_data to iss_data.json
+-0.4094 -119.624
+Saved iss_data to iss_data.json
+-0.1307 -119.4266
+Saved iss_data to iss_data.json
+0.1226 -119.2471
+Saved iss_data to iss_data.json
+0.4014 -119.0497
+Saved iss_data to iss_data.json
+0.7054 -118.8343
+Saved iss_data to iss_data.json
+0.9587 -118.6548
+Saved iss_data to iss_data.json
+1.2627 -118.4394
+Saved iss_data to iss_data.json
+1.5413 -118.2419
+Saved iss_data to iss_data.json
+1.8199 -118.0443
+Saved iss_data to iss_data.json
+2.0985 -117.8466
+Saved iss_data to iss_data.json
+2.3771 -117.6488
+Saved iss_data to iss_data.json
+2.6556 -117.451
+Saved iss_data to iss_data.json
+2.9341 -117.2531
+Saved iss_data to iss_data.json
+3.2126 -117.055
+Saved iss_data to iss_data.json
+3.491 -116.8568
+Saved iss_data to iss_data.json
+3.7694 -116.6585
+Saved iss_data to iss_data.json
+4.0477 -116.46
+Saved iss_data to iss_data.json
+4.3512 -116.2433
+Saved iss_data to iss_data.json
+4.6294 -116.0446
+Saved iss_data to iss_data.json
+4.9328 -115.8275
+Saved iss_data to iss_data.json
+5.2361 -115.6102
+Saved iss_data to iss_data.json
+5.514 -115.4109
+Saved iss_data to iss_data.json
+5.8424 -115.175
+Saved iss_data to iss_data.json
+6.1959 -114.9205
+Saved iss_data to iss_data.json
+6.4988 -114.7022
+Saved iss_data to iss_data.json
+6.8015 -114.4835
+Saved iss_data to iss_data.json
+7.1042 -114.2645
+Saved iss_data to iss_data.json
+7.4571 -114.0087
+Saved iss_data to iss_data.json
+7.7594 -113.789
+Saved iss_data to iss_data.json
+8.0868 -113.5506
+Saved iss_data to iss_data.json
+8.389 -113.3301
+Saved iss_data to iss_data.json
+8.7161 -113.0909
+Saved iss_data to iss_data.json
+9.043 -112.8511
+Saved iss_data to iss_data.json
+9.3697 -112.6109
+Saved iss_data to iss_data.json
+9.7214 -112.3516
+Saved iss_data to iss_data.json
+10.0727 -112.0918
+Saved iss_data to iss_data.json
+10.3988 -111.8498
+Saved iss_data to iss_data.json
+10.7248 -111.6073
+Saved iss_data to iss_data.json
+11.0505 -111.3642
+Saved iss_data to iss_data.json
+11.3759 -111.1205
+Saved iss_data to iss_data.json
+11.7261 -110.8574
+Saved iss_data to iss_data.json
+12.0759 -110.5936
+Saved iss_data to iss_data.json
+12.4254 -110.329
+Saved iss_data to iss_data.json
+12.7747 -110.0636
+Saved iss_data to iss_data.json
+13.1236 -109.7974
+Saved iss_data to iss_data.json
+13.4722 -109.5303
+Saved iss_data to iss_data.json
+13.8204 -109.2624
+Saved iss_data to iss_data.json
+14.1683 -108.9935
+Saved iss_data to iss_data.json
+14.5406 -108.7045
+Saved iss_data to iss_data.json
+14.8878 -108.4337
+Saved iss_data to iss_data.json
+15.2345 -108.1619
+Saved iss_data to iss_data.json
+15.5809 -107.8892
+Saved iss_data to iss_data.json
+15.9761 -107.5762
+Saved iss_data to iss_data.json
+16.3462 -107.2816
+Saved iss_data to iss_data.json
+16.6912 -107.0054
+Saved iss_data to iss_data.json
+17.0604 -106.7083
+Saved iss_data to iss_data.json
+17.429 -106.4099
+Saved iss_data to iss_data.json
+17.797 -106.1102
+Saved iss_data to iss_data.json
+18.189 -105.7889
+Saved iss_data to iss_data.json
+18.5803 -105.4661
+Saved iss_data to iss_data.json
+18.971 -105.1416
+Saved iss_data to iss_data.json
+19.3367 -104.8358
+Saved iss_data to iss_data.json
+19.726 -104.508
+Saved iss_data to iss_data.json
+20.0903 -104.1991
+Saved iss_data to iss_data.json
+20.4782 -103.8678
+Saved iss_data to iss_data.json
+20.8654 -103.5347
+Saved iss_data to iss_data.json
+21.2517 -103.1997
+Saved iss_data to iss_data.json
+21.6614 -102.8415
+Saved iss_data to iss_data.json
+22.0461 -102.5024
+Saved iss_data to iss_data.json
+22.43 -102.1613
+Saved iss_data to iss_data.json
+22.813 -101.818
+Saved iss_data to iss_data.json
+23.2189 -101.4511
+Saved iss_data to iss_data.json
+23.6 -101.1034
+Saved iss_data to iss_data.json
+23.9802 -100.7535
+Saved iss_data to iss_data.json
+24.3831 -100.3793
+Saved iss_data to iss_data.json
+24.7849 -100.0024
+Saved iss_data to iss_data.json
+25.1856 -99.6228
+Saved iss_data to iss_data.json
+25.5852 -99.2405
+Saved iss_data to iss_data.json
+25.9836 -98.8553
+Saved iss_data to iss_data.json
+26.404 -98.4444
+Saved iss_data to iss_data.json
+26.7998 -98.0532
+Saved iss_data to iss_data.json
+27.2407 -97.6126
+Saved iss_data to iss_data.json
+27.6337 -97.2151
+Saved iss_data to iss_data.json
+28.0484 -96.7907
+Saved iss_data to iss_data.json
+28.4615 -96.3629
+Saved iss_data to iss_data.json
+28.9643 -95.8349
+Saved iss_data to iss_data.json
+29.4419 -95.3257
+Saved iss_data to iss_data.json
+29.9172 -94.8113
+Saved iss_data to iss_data.json
+30.3901 -94.2916
+Saved iss_data to iss_data.json
+30.8383 -93.7914
+Saved iss_data to iss_data.json
+31.2398 -93.3369
+Saved iss_data to iss_data.json
+31.6393 -92.8782
+Saved iss_data to iss_data.json
+32.0369 -92.4152
+Saved iss_data to iss_data.json
+32.4326 -91.9478
+Saved iss_data to iss_data.json
+32.8262 -91.476
+Saved iss_data to iss_data.json
+33.2393 -90.9731
+Saved iss_data to iss_data.json
+33.6286 -90.4919
+Saved iss_data to iss_data.json
+34.0585 -89.9517
+Saved iss_data to iss_data.json
+34.4644 -89.433
+Saved iss_data to iss_data.json
+34.8889 -88.8811
+Saved iss_data to iss_data.json
+35.3105 -88.323
+Saved iss_data to iss_data.json
+35.7291 -87.7587
+Saved iss_data to iss_data.json
+36.1239 -87.2167
+Saved iss_data to iss_data.json
+36.5364 -86.6397
+Saved iss_data to iss_data.json
+36.9253 -86.0855
